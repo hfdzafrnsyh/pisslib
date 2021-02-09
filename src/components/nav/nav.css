@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+nav {
+    height: 90px;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    width: 100%;
+    z-index: 900;
+    background-color: crimson;
+}
+
+nav h3 {
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+nav ul {
+    margin-right: 80px;
+}
+
+
+nav ul li a {
+
+    color: #efeeee;
+    padding: 10px 20px;
+    font-size: 18px;
+
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    color: darkmagenta;
+}

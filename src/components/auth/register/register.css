@@ -1,0 +1,20 @@
+.register input {
+    margin-top: 20px;
+}
+
+.header-register {
+    padding-bottom: 20px;
+    color: #0275d8;
+}
+
+.header-register h4 {
+    font-size: 30px;
+}
+
+.register a {
+    color: #d9534f;
+}
+
+.register a:hover {
+    color: #0275d8;
+}

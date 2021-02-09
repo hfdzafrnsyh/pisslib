@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+.search {
+    text-align: center;
+}
+
+.search input {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    width: 600px;
+    height: 50px;
+    border-radius: 1rem;
+    padding: 3px 3px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #2a363b;
+}
+
+.search button {
+    margin-left: 7px;
+    padding: 8px 10px;
+    border-radius: 0.2rem;
+    background-color: #0275d8;
+    color: #efeeee;
+
+
+}
+
+.search button:hover {
+    background-color: #dc143c;
+    color: #efeeee;
+    cursor: pointer;
+
+}
+
+.logo {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    color: #0275d8;
+
+}
+
+.logo h1 {
+    font-size: 110px;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 6px;
+}
+
+.logo-text {
+    color: #dc143c;
+    font-size: 23px;
+}
